@@ -12,7 +12,7 @@ function App() {
   const [loading, setLoading] = useState(false);
 
   const langEn = {
-    button: "EN 🇺🇸",
+    button: "FR 🇫🇷",
     language: "en",
     search: "Search",
     placeholder: "Enter your search term",
@@ -24,7 +24,7 @@ function App() {
   };
 
   const langFr = {
-    button: "FR 🇫🇷",
+    button: "EN 🇺🇸",
     language: "fr",
     search: "Recherche",
     placeholder: "Entrez votre recherche",
